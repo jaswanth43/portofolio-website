@@ -353,6 +353,9 @@ form btn2{
 .copyright i{
     color: #ff004f;
 }
+nav .fa-solid{
+    display: none;
+}
 /* ---- css for small screen-----*/
 @media only screen and (max-width:600px){
 #header{
