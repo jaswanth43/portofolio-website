@@ -362,10 +362,16 @@ nav .fa-solid{
 /* ---- css for small screen-----*/
 @media only screen and (max-width:768px){
 #header{
-    background-image: url(22.JPG);
     
+    background-position: left;
+    background-size: auto;
     padding-bottom: 100px;
 
+}
+    .logo{
+    border: #6e0224 solid 1px;
+    width: 200px;
+    height: 75px;
 }
 .header-text{
     margin-top: 60%;
@@ -417,7 +423,7 @@ font-size: 30px;
 }
 
 .aboot{
-    font-size: 15px;
+    font-size: 12px;
     
 }
 .contact-left, .contact-right{
